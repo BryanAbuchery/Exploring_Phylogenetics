@@ -42,9 +42,16 @@ mergeddf <- merge(treedtf, sample_data, by.x = "label", by.y = "Entry", all.x =T
 newtips <- mergeddf$Organism
 library(phylotools)
 new_tree <- as.phylo(mergeddf)
-new_tree$tip.label <- newtips
-plots <- ggtree(new_tree, branch.length = "none", mrsd = "2013-01-01", size = .5) %<+% mergeddf +
-  geom_tiplab(aes(label = Organism), linesize = .5)
-ggsave("IP6K_tree_linear.png", plot = plots)
-ggsave(plot = plots, filename = "Inositol_hexakisphosphate.pdf",
+rename.tips.phylo <- function(tree, names) {
+  tree$tip.label <- tree$tip.label <- newtips[match(tree$tip.label,tips)]
+  return(tree)
+}
+tree2plot <- rename.tips.phylo(newtree, newtips)
+plots <- ggtree(tree2plot, layout="circular", branch.length = "none", size = .5)
+plots2 <- ggtree(tree2plot, branch.length = "none")
+ggsave("IP6K_tree_circular.png", plot = plots)
+ggsave("IPK6_tree_linear.png", plot = plots2)
+ggsave(plot = plots, filename = "Inositol_hexakisphosphate(circular).pdf",
+       width = 10, height = 10, dpi = "retina")
+ggsave(plot = plots2, filename = "Inositol_hexakisphosphate(linear).pdf",
        width = 10, height = 10, dpi = "retina")
