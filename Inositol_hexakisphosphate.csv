@@ -1,0 +1,261 @@
+﻿Entry;Organism
+tr|Q4QFV1|Q4QFV1_LEIMA;Leishmania major 
+tr|A4HVX6|A4HVX6_LEIIN;Leishmania infantum 
+tr|A0A504XMG8|A0A504XMG8_LEIDO;Leishmania donovani 
+tr|A4H7J3|A4H7J3_LEIBR;Leishmania braziliensis 
+tr|A0A0N0DT98|A0A0N0DT98_9TRYP;Leptomonas pyrrhocoris 
+tr|K2M0X9|K2M0X9_TRYCR;Trypanosoma cruzi marinkellei 
+tr|Q4D141|Q4D141_TRYCC;Trypanosoma cruzi (strain CL Brener) 
+tr|W6L7T4|W6L7T4_9TRYP;Phytomonas sp. isolate Hart1 
+tr|Q4DIK7|Q4DIK7_TRYCC;Trypanosoma cruzi (strain CL Brener) 
+tr|Q57X56|Q57X56_TRYB2;Trypanosoma brucei brucei (strain 927/4 GUTat10.1) 
+tr|W6KPD8|W6KPD8_9TRYP;Phytomonas sp. isolate EM1 
+tr|V5BMB0|V5BMB0_TRYCR;Trypanosoma cruzi Dm28c 
+tr|A0A422PIA3|A0A422PIA3_9TRYP;Trypanosoma conorhini 
+tr|A0A1X0NPC8|A0A1X0NPC8_9TRYP;Trypanosoma theileri 
+tr|A0A061IU47|A0A061IU47_TRYRA;Trypanosoma rangeli SC58 
+tr|A0A422NX74|A0A422NX74_TRYRA;Trypanosoma rangeli 
+tr|R7UK36|R7UK36_CAPTE;Capitella teleta 
+tr|F2UJ85|F2UJ85_SALR5;Salpingoeca rosetta (strain ATCC 50818 / BSB-021) 
+tr|A0A6J0DA77|A0A6J0DA77_PERMB;Peromyscus maniculatus bairdii 
+tr|A0A7E6E5F4|A0A7E6E5F4_9CHIR;Phyllostomus discolor 
+tr|A0A091EJ00|A0A091EJ00_CORBR;Corvus brachyrhynchos 
+tr|W5PKY3|W5PKY3_SHEEP;Ovis aries 
+tr|A0A452FHA3|A0A452FHA3_CAPHI;Capra hircus 
+tr|A0A6J0TD47|A0A6J0TD47_9SAUR;Pogona vitticeps 
+tr|A0A068RJF4|A0A068RJF4_9FUNG;Lichtheimia corymbifera JMRC:FSU:9682 
+tr|A0A1A6H127|A0A1A6H127_NEOLE;Neotoma lepida 
+tr|A0A286ZTI7|A0A286ZTI7_PIG;Sus scrofa 
+tr|A0A1U7RDJ3|A0A1U7RDJ3_MESAU;Mesocricetus auratus 
+tr|A0A383Z1M5|A0A383Z1M5_BALAS;Balaenoptera acutorostrata scammoni 
+tr|A0A2K6ERU5|A0A2K6ERU5_PROCO;Propithecus coquereli 
+tr|A0A6J3ITB4|A0A6J3ITB4_SAPAP;Sapajus apella 
+tr|A0A2K5PN51|A0A2K5PN51_CEBIM;Cebus imitator 
+tr|A0A3Q0E751|A0A3Q0E751_CARSF;Carlito syrichta 
+tr|A0A2Y9NHS6|A0A2Y9NHS6_DELLE;Delphinapterus leucas 
+tr|A0A341ATH4|A0A341ATH4_NEOAA;Neophocaena asiaeorientalis asiaeorientalis 
+tr|A0A2U4B246|A0A2U4B246_TURTR;Tursiops truncatus 
+tr|A0A287AEV2|A0A287AEV2_PIG;Sus scrofa 
+tr|A0A2Y9QH73|A0A2Y9QH73_TRIMA;Trichechus manatus latirostris 
+tr|A0A2U3VV60|A0A2U3VV60_ODORO;Odobenus rosmarus divergens 
+tr|A0A2Y9GTE9|A0A2Y9GTE9_NEOSC;Neomonachus schauinslandi 
+tr|A0A7F8RTJ4|A0A7F8RTJ4_LEPWE;Leptonychotes weddellii 
+tr|A0A2F0BKZ6|A0A2F0BKZ6_ESCRO;Eschrichtius robustus 
+tr|K7G124|K7G124_PELSI;Pelodiscus sinensis 
+tr|G5BZX2|G5BZX2_HETGA;Heterocephalus glaber 
+tr|A0A6I9MGU7|A0A6I9MGU7_PERMB;Peromyscus maniculatus bairdii 
+tr|A0A452G232|A0A452G232_CAPHI;Capra hircus 
+tr|G3H8E3|G3H8E3_CRIGR;Cricetulus griseus 
+sp|Q9ESM0|IP6K1_RAT;Rattus norvegicus 
+sp|Q6PD10|IP6K1_MOUSE;Mus musculus 
+tr|A0A091CMC9|A0A091CMC9_FUKDA;Fukomys damarensis 
+tr|A0A3Q0CTC0|A0A3Q0CTC0_MESAU;Mesocricetus auratus 
+tr|A0A6J0DBR1|A0A6J0DBR1_PERMB;Peromyscus maniculatus bairdii 
+tr|A0A093K169|A0A093K169_STRCA;Struthio camelus australis 
+tr|A0A455AYZ6|A0A455AYZ6_PHYMC;Physeter macrocephalus 
+tr|A0A3Q7REI8|A0A3Q7REI8_VULVU;Vulpes vulpes 
+tr|A0A3Q7Q5P8|A0A3Q7Q5P8_CALUR;Callorhinus ursinus 
+tr|G3U4C4|G3U4C4_LOXAF;Loxodonta africana 
+tr|F6YJJ0|F6YJJ0_HORSE;Equus caballus 
+tr|S9YJF8|S9YJF8_CAMFR;Camelus ferus 
+tr|A0A3Q0GP74|A0A3Q0GP74_ALLSI;Alligator sinensis 
+tr|A0A6J2M118|A0A6J2M118_9CHIR;Phyllostomus discolor 
+tr|A0A2K5YYQ9|A0A2K5YYQ9_MANLE;Mandrillus leucophaeus 
+tr|A0A6P3EKP0|A0A6P3EKP0_OCTDE;Octodon degus 
+tr|A0A5E4B572|A0A5E4B572_MARMO;Marmota monax 
+tr|I3MLL0|I3MLL0_ICTTR;Ictidomys tridecemlineatus 
+tr|A0A286XIM3|A0A286XIM3_CAVPO;Cavia porcellus 
+tr|G1SN12|G1SN12_RABIT;Oryctolagus cuniculus 
+tr|G3TAR7|G3TAR7_LOXAF;Loxodonta africana 
+tr|A0A5N4CRA1|A0A5N4CRA1_CAMDR;Camelus dromedarius 
+tr|A0A643C9W6|A0A643C9W6_BALPH;Balaenoptera physalus 
+tr|A0A4U1EMD2|A0A4U1EMD2_MONMO;Monodon monoceros 
+tr|A0A5N3VZ93|A0A5N3VZ93_MUNRE;Muntiacus reevesi 
+tr|A0A6J0WIJ9|A0A6J0WIJ9_ODOVR;Odocoileus virginianus texanus 
+tr|A0A3Q3NHL9|A0A3Q3NHL9_9TELE;Mastacembelus armatus 
+tr|A0A2K5YYP0|A0A2K5YYP0_MANLE;Mandrillus leucophaeus 
+tr|F6XC24|F6XC24_HORSE;Equus caballus 
+tr|A0A6I9I2Y8|A0A6I9I2Y8_VICPA;Vicugna pacos 
+tr|H0X5J8|H0X5J8_OTOGA;Otolemur garnettii 
+tr|A0A4W4F8B0|A0A4W4F8B0_ELEEL;Electrophorus electricus 
+tr|A0A212D4X0|A0A212D4X0_CEREH;Cervus elaphus hippelaphus 
+tr|A0A671E898|A0A671E898_RHIFE;Rhinolophus ferrumequinum 
+tr|A0A6J1UKS1|A0A6J1UKS1_9SAUR;Notechis scutatus 
+tr|F1SPR3|F1SPR3_PIG;Sus scrofa 
+sp|Q8BWD2|IP6K3_MOUSE;Mus musculus 
+tr|W7I9E2|W7I9E2_9PEZI;Drechslerella stenobrocha 248 
+tr|A0A384D5C9|A0A384D5C9_URSMA;Ursus maritimus 
+tr|A0A3Q0GTP8|A0A3Q0GTP8_ALLSI;Alligator sinensis 
+tr|A0A6J0ZDE8|A0A6J0ZDE8_ODOVR;Odocoileus virginianus texanus 
+tr|A0A6J3BB00|A0A6J3BB00_VICPA;Vicugna pacos 
+tr|A0A3P9ACT8|A0A3P9ACT8_ESOLU;Esox lucius 
+tr|X1WE50|X1WE50_DANRE;Danio rerio 
+tr|A0A2K5HZB3|A0A2K5HZB3_COLAP;Colobus angolensis palliatus 
+tr|A0A2K6V884|A0A2K6V884_SAIBB;Saimiri boliviensis boliviensis 
+tr|A0A2K6ERS9|A0A2K6ERS9_PROCO;Propithecus coquereli 
+tr|A0A2K6ATM8|A0A2K6ATM8_MACNE;Macaca nemestrina 
+tr|A0A2K6L3A4|A0A2K6L3A4_RHIBE;Rhinopithecus bieti 
+tr|A0A2K5TSG4|A0A2K5TSG4_MACFA;Macaca fascicularis 
+tr|A0A2I2Y7S9|A0A2I2Y7S9_GORGO;Gorilla gorilla gorilla 
+tr|A0A2I3G2S1|A0A2I3G2S1_NOMLE;Nomascus leucogenys 
+tr|A0A2R8ZGJ6|A0A2R8ZGJ6_PANPA;Pan paniscus 
+tr|A0A2K5F7K3|A0A2K5F7K3_AOTNA;Aotus nancymaae 
+tr|A0A096NEV1|A0A096NEV1_PAPAN;Papio anubis 
+tr|A0A2K5KI12|A0A2K5KI12_CERAT;Cercocebus atys 
+tr|A0A2I3T4N2|A0A2I3T4N2_PANTR;Pan troglodytes 
+tr|A0A2K5PN65|A0A2K5PN65_CEBIM;Cebus imitator 
+tr|A0A2K6QQG0|A0A2K6QQG0_RHIRO;Rhinopithecus roxellana 
+tr|A0A1S3G5R1|A0A1S3G5R1_DIPOR;Dipodomys ordii 
+tr|A0A2Y9D6B8|A0A2Y9D6B8_TRIMA;Trichechus manatus latirostris 
+tr|A0A3P9P0I6|A0A3P9P0I6_POERE;Poecilia reticulata 
+tr|A0A3Q7X201|A0A3Q7X201_URSAR;Ursus arctos horribilis 
+sp|Q92551|IP6K1_HUMAN;Homo sapiens 
+tr|A0A6I9HU95|A0A6I9HU95_VICPA;Vicugna pacos 
+tr|A0A2K5HZC5|A0A2K5HZC5_COLAP;Colobus angolensis palliatus 
+tr|A0A2K6V8A1|A0A2K6V8A1_SAIBB;Saimiri boliviensis boliviensis 
+tr|A0A2K6ERS2|A0A2K6ERS2_PROCO;Propithecus coquereli 
+tr|A0A2K6ATM6|A0A2K6ATM6_MACNE;Macaca nemestrina 
+tr|A0A2K6L394|A0A2K6L394_RHIBE;Rhinopithecus bieti 
+tr|A0A2K5TSD0|A0A2K5TSD0_MACFA;Macaca fascicularis 
+tr|G3R503|G3R503_GORGO;Gorilla gorilla gorilla 
+tr|G1R5D4|G1R5D4_NOMLE;Nomascus leucogenys 
+tr|A0A0D9RQ18|A0A0D9RQ18_CHLSB;Chlorocebus sabaeus 
+tr|A0A484GWD9|A0A484GWD9_SOUCH;Sousa chinensis 
+tr|A0A2R8ZG47|A0A2R8ZG47_PANPA;Pan paniscus 
+tr|A0A340WCJ7|A0A340WCJ7_LIPVE;Lipotes vexillifer 
+tr|A0A2K5F7Q4|A0A2K5F7Q4_AOTNA;Aotus nancymaae 
+tr|A0A2I3LJC3|A0A2I3LJC3_PAPAN;Papio anubis 
+tr|A0A2K5KHZ8|A0A2K5KHZ8_CERAT;Cercocebus atys 
+tr|A0A5N4CYE7|A0A5N4CYE7_CAMDR;Camelus dromedarius 
+tr|A0A383Z0X7|A0A383Z0X7_BALAS;Balaenoptera acutorostrata scammoni 
+tr|Q0II95|Q0II95_BOVIN;Bos taurus 
+tr|A0A2Y9N2B4|A0A2Y9N2B4_DELLE;Delphinapterus leucas 
+tr|A0A6J3IUF3|A0A6J3IUF3_SAPAP;Sapajus apella 
+tr|F7GRE2|F7GRE2_MACMU;Macaca mulatta 
+tr|H2QMM3|H2QMM3_PANTR;Pan troglodytes 
+tr|U3EJP7|U3EJP7_CALJA;Callithrix jacchus 
+tr|A0A1U7TMV3|A0A1U7TMV3_CARSF;Carlito syrichta 
+tr|A0A4W2DXA9|A0A4W2DXA9_BOBOX;Bos indicus x Bos taurus 
+tr|A0A2K5PN41|A0A2K5PN41_CEBIM;Cebus imitator 
+tr|A0A341ATG2|A0A341ATG2_NEOAA;Neophocaena asiaeorientalis asiaeorientalis 
+tr|A0A6J0ZCW1|A0A6J0ZCW1_ODOVR;Odocoileus virginianus texanus 
+tr|A0A6P3IGY8|A0A6P3IGY8_BISBI;Bison bison bison 
+tr|A0A2K6QQC6|A0A2K6QQC6_RHIRO;Rhinopithecus roxellana 
+tr|A0A2U4B2D9|A0A2U4B2D9_TURTR;Tursiops truncatus 
+tr|G3I6U9|G3I6U9_CRIGR;Cricetulus griseus 
+tr|A0A212C985|A0A212C985_CEREH;Cervus elaphus hippelaphus 
+sp|A0A0H2URK1|PSRP_STRPN;Streptococcus pneumoniae serotype 4 (strain ATCC BAA-334 / TIGR4) 
+tr|U3K315|U3K315_FICAL;Ficedula albicollis 
+tr|W5PS74|W5PS74_SHEEP;Ovis aries 
+tr|A0A452HWU9|A0A452HWU9_9SAUR;Gopherus agassizii 
+tr|A0A4D9E0K4|A0A4D9E0K4_9SAUR;Platysternon megacephalum 
+tr|M7BEH1|M7BEH1_CHEMY;Chelonia mydas 
+tr|A0A1S3G479|A0A1S3G479_DIPOR;Dipodomys ordii 
+tr|H2PAQ8|H2PAQ8_PONAB;Pongo abelii 
+tr|L8IU16|L8IU16_9CETA;Bos mutus 
+tr|A0A3P4RUZ8|A0A3P4RUZ8_GULGU;Gulo gulo 
+tr|A0A2U3VV63|A0A2U3VV63_ODORO;Odobenus rosmarus divergens 
+tr|S7PAS9|S7PAS9_MYOBR;Myotis brandtii 
+tr|A0A452QS49|A0A452QS49_URSAM;Ursus americanus 
+tr|A0A6P6H8J9|A0A6P6H8J9_PUMCO;Puma concolor 
+tr|A0A6I9KFA6|A0A6I9KFA6_CHRAS;Chrysochloris asiatica 
+tr|A0A3Q7QG51|A0A3Q7QG51_CALUR;Callorhinus ursinus 
+tr|A0A2Y9GTK0|A0A2Y9GTK0_NEOSC;Neomonachus schauinslandi 
+tr|A0A2U3YLJ0|A0A2U3YLJ0_LEPWE;Leptonychotes weddellii 
+tr|A0A2I2U3X1|A0A2I2U3X1_FELCA;Felis catus 
+tr|L5LHC5|L5LHC5_MYODS;Myotis davidii 
+tr|A0A6J1XQ25|A0A6J1XQ25_ACIJB;Acinonyx jubatus 
+tr|A0A384D4K3|A0A384D4K3_URSMA;Ursus maritimus 
+tr|A0A3Q7VVS4|A0A3Q7VVS4_URSAR;Ursus arctos horribilis 
+tr|A0A2Y9J7R6|A0A2Y9J7R6_ENHLU;Enhydra lutris kenyoni 
+tr|A0A673V030|A0A673V030_SURSU;Suricata suricatta 
+tr|A0A2U3ZEJ5|A0A2U3ZEJ5_ODORO;Odobenus rosmarus divergens 
+tr|A0A2Y9IZY5|A0A2Y9IZY5_ENHLU;Enhydra lutris kenyoni 
+tr|A0A091JZP7|A0A091JZP7_COLST;Colius striatus 
+tr|A0A553P1X6|A0A553P1X6_TIGCA;Tigriopus californicus 
+tr|A0A5E4B4D9|A0A5E4B4D9_MARMO;Marmota monax 
+tr|G1PRZ3|G1PRZ3_MYOLU;Myotis lucifugus 
+tr|M3YPQ0|M3YPQ0_MUSPF;Mustela putorius furo 
+tr|A0A6P6EWD6|A0A6P6EWD6_OCTDE;Octodon degus 
+tr|G1M0U3|G1M0U3_AILME;Ailuropoda melanoleuca 
+tr|A0A091G4D2|A0A091G4D2_9AVES;Cuculus canorus 
+tr|A0A485M937|A0A485M937_LYNPA;Lynx pardinus 
+tr|A0A4W2CGN8|A0A4W2CGN8_BOBOX;Bos indicus x Bos taurus 
+tr|A0A6P5DTD0|A0A6P5DTD0_BOSIN;Bos indicus 
+tr|L8IVP6|L8IVP6_9CETA;Bos mutus 
+tr|A0A6P3I5I0|A0A6P3I5I0_BISBI;Bison bison bison 
+tr|Q0IHV6|Q0IHV6_XENTR;Xenopus tropicalis 
+tr|A0A6G1AHI3|A0A6G1AHI3_CROCR;Crocuta crocuta 
+tr|A0A6J0ZDE3|A0A6J0ZDE3_ODOVR;Odocoileus virginianus texanus 
+tr|D4AEE6|D4AEE6_RAT;Rattus norvegicus 
+tr|A0A1V4KWU2|A0A1V4KWU2_PATFA;Patagioenas fasciata monilis 
+tr|F1RE97|F1RE97_DANRE;Danio rerio 
+tr|A0A1U7RSA8|A0A1U7RSA8_ALLSI;Alligator sinensis 
+tr|A0A672V0G3|A0A672V0G3_STRHB;Strigops habroptila 
+tr|Q6GQ51|Q6GQ51_XENLA;Xenopus laevis 
+tr|A0A5J5EZH4|A0A5J5EZH4_9PEZI;Sphaerosporella brunnea 
+tr|A0A6P9DMX6|A0A6P9DMX6_PANGU;Pantherophis guttatus 
+tr|A0A091KPV2|A0A091KPV2_9GRUI;Chlamydotis macqueenii 
+tr|A0A094L5H6|A0A094L5H6_ANTCR;Antrostomus carolinensis 
+tr|A0A1U8D3Z9|A0A1U8D3Z9_ALLSI;Alligator sinensis 
+tr|A0A093CBH4|A0A093CBH4_TAUER;Tauraco erythrolophus 
+tr|A0A151MTL4|A0A151MTL4_ALLMI;Alligator mississippiensis 
+tr|A0A091SAB3|A0A091SAB3_NESNO;Nestor notabilis 
+tr|A0A151MTH4|A0A151MTH4_ALLMI;Alligator mississippiensis 
+tr|A0A218UQE3|A0A218UQE3_9PASE;Lonchura striata domestica 
+tr|A0A1U8D429|A0A1U8D429_ALLSI;Alligator sinensis 
+tr|F1MQ28|F1MQ28_BOVIN;Bos taurus 
+tr|A0A674G9M8|A0A674G9M8_TAEGU;Taeniopygia guttata 
+tr|J9NTT4|J9NTT4_CANLF;Canis lupus familiaris 
+tr|A0A3Q7REH8|A0A3Q7REH8_VULVU;Vulpes vulpes 
+tr|A0A3Q7RCW2|A0A3Q7RCW2_VULVU;Vulpes vulpes 
+tr|A0A674HDU7|A0A674HDU7_TAEGU;Taeniopygia guttata 
+tr|L5KWC3|L5KWC3_PTEAL;Pteropus alecto 
+tr|A0A553RFE3|A0A553RFE3_9TELE;Danionella translucida 
+tr|A0A091SBC9|A0A091SBC9_9GRUI;Mesitornis unicolor 
+tr|A0A093HE92|A0A093HE92_TYTAL;Tyto alba 
+tr|A0A093I807|A0A093I807_EURHL;Eurypyga helias 
+tr|A0A087QIX5|A0A087QIX5_APTFO;Aptenodytes forsteri 
+tr|A0A093J3M0|A0A093J3M0_FULGA;Fulmarus glacialis 
+tr|A0A6J2HQF8|A0A6J2HQF8_9PASS;Pipra filicauda 
+tr|A0A091GYZ1|A0A091GYZ1_BUCRH;Buceros rhinoceros silvestris 
+tr|A0A6I9HK33|A0A6I9HK33_GEOFO;Geospiza fortis 
+tr|A0A093RVC9|A0A093RVC9_9PASS;Manacus vitellinus 
+tr|A0A091U8M1|A0A091U8M1_PHORB;Phoenicopterus ruber ruber 
+tr|A0A091IBI9|A0A091IBI9_CALAN;Calypte anna 
+tr|A0A091VM81|A0A091VM81_NIPNI;Nipponia nippon 
+tr|A0A093R215|A0A093R215_PHACA;Phalacrocorax carbo 
+tr|A0A091WDE8|A0A091WDE8_OPIHO;Opisthocomus hoazin 
+tr|A0A087VH24|A0A087VH24_BALRE;Balearica regulorum gibbericeps 
+tr|A0A093GWQ2|A0A093GWQ2_DRYPU;Dryobates pubescens 
+tr|A0A093C8T9|A0A093C8T9_9AVES;Pterocles gutturalis 
+tr|A0A099ZZH8|A0A099ZZH8_CHAVO;Charadrius vociferus 
+tr|A0A091P470|A0A091P470_LEPDC;Leptosomus discolor 
+tr|A0A091T6F0|A0A091T6F0_PHALP;Phaethon lepturus 
+tr|A0A093PJ42|A0A093PJ42_PYGAD;Pygoscelis adeliae 
+tr|A0A091IR51|A0A091IR51_EGRGA;Egretta garzetta 
+tr|A0A091PJF0|A0A091PJF0_HALAL;Haliaeetus albicilla 
+tr|A0A6I9HK55|A0A6I9HK55_GEOFO;Geospiza fortis 
+tr|A0A091N5A7|A0A091N5A7_APAVI;Apaloderma vittatum 
+tr|A0A3L8S268|A0A3L8S268_CHLGU;Chloebia gouldiae 
+tr|A0A663ETA8|A0A663ETA8_AQUCH;Aquila chrysaetos chrysaetos 
+tr|A0A6J2HQF4|A0A6J2HQF4_9PASS;Pipra filicauda 
+tr|A0A6P6BMK3|A0A6P6BMK3_PTEVA;Pteropus vampyrus 
+tr|A0A3N4KJQ1|A0A3N4KJQ1_9PEZI;Choiromyces venosus 120613-1 
+tr|A0A1S3WGP1|A0A1S3WGP1_ERIEU;Erinaceus europaeus 
+tr|A0A1A6FY71|A0A1A6FY71_NEOLE;Neotoma lepida 
+tr|G1KGD5|G1KGD5_ANOCA;Anolis carolinensis 
+tr|T0NMY6|T0NMY6_CAMFR;Camelus ferus 
+tr|A0A2I0LNL4|A0A2I0LNL4_COLLI;Columba livia 
+tr|A0A6J8A340|A0A6J8A340_MYTCO;Mytilus coruscus 
+LmjF.14.0340;Leishmania major strain Friedlin
+LdBPK_140340.1;Leishmania donovani BPK28A1
+LINF_140008400;Leishmania infantum JPCM5
+LmxM.14.0340;Leishmania mexicana MHOM/GT/2001/U1103
+Tbg972.7.4970;Trypanosoma brucei gambiense  DAL972
+TcIL3000_7_3620;Trypanosoma congolense IL3000
+TcCLB.506985.60;Trypanosoma cruzi CL Brener Non-Esmeraldo-like
+TcCLB.504213.90;Trypanosoma cruzi CL Brener Esmeraldo-like
+TvY486_0704460;Trypanosoma vivax Y486
+LbrM.14.0340;Leishmania braziliensis MHOM/BR/75/M2904
+Tb927.7.4400;Trypanosoma brucei brucei TREU927
