@@ -46,7 +46,7 @@ rename.tips.phylo <- function(tree, names) {
   tree$tip.label <- tree$tip.label <- newtips[match(tree$tip.label,tips)]
   return(tree)
 }
-tree2plot <- rename.tips.phylo(newtree, newtips)
+tree2plot <- rename.tips.phylo(new_tree, newtips)
 plots <- ggtree(tree2plot, layout="circular", branch.length = "none", size = .5)
 plots2 <- ggtree(tree2plot, branch.length = "none")
 ggsave("IP6K_tree_circular.png", plot = plots)
