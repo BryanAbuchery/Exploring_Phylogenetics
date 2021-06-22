@@ -11,4 +11,23 @@ This project explores the phylogenetics of Phosphoinositol Hexakisphosphosphates
 
 ## Setup and Installation
 
-*
+### Install the following packages
+
+* DECIPHER[https://www.bioconductor.org/packages/release/bioc/html/DECIPHER.html]
+
+* MSA[https://bioconductor.org/packages/release/bioc/html/msa.html]
+
+### Run
+
+Change the name of the files in the scripts to your file names and run either of the scripts
+
+
+## Challenges
+
+* All the files need to be in the same directory as either of the scripts.
+
+* The fast file with sequences need to have one format of the sequence headers.
+
+* The phylogenetic tree does not have tips labelled, for some reason. I am still working on this, plus a way to automate the entire process which includes preformatting the original fasta file.
+
+* Please feel free to help me modify this script to help it work better.
