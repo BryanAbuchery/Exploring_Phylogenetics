@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 #ensure that Tex/LaTex is also installed
-#install.packages("pacman")
+install.packages("pacman")
 library("pacman") # This code chunk shows the loading of required 
                   # packages. Here, p_load() from pacman, which installs 
                   # the package if necessary and loads it for use. 
@@ -17,7 +17,7 @@ pacman::p_load(
 remotes::install_github("YuLab-SMU/tidytree", force = TRUE) #ensures ggtree will work with dplyr
 #if (!requireNamespace("BiocManager", quietly=TRUE))
 #install.packages("BiocManager")
-#BiocManager::install("msa")
+#BiocManager::install("msa") #for alignment
 library(msa)
 mySequences <- readAAStringSet("concat_IP6K_sequences.fasta")
 myFirstAlignment <- msa(mySequences)
@@ -28,9 +28,9 @@ outdir <- file.path(aldir,"alignments")
 fasta_file <- paste(outdir,".fasta",sep="")
 tex_file <- paste(outdir,".tex",sep="")
 msaPrettyPrint(myFirstAlignment, output="tex", showConsensus = "none", askForOverwrite=FALSE, verbose=FALSE,
-               file = tex_file, alFile = fasta_file )
-treeAln <- msaConvert(myFirstAlignment, type="seqinr::alignment")
-#install.packages("seqinr")
+               file = tex_file, alFile = fasta_file ) #writes the alignment files
+treeAln <- msaConvert(myFirstAlignment, type="seqinr::alignment") #convert alignment into a file recognized by seqinr
+install.packages("seqinr")
 library(seqinr)
 distmatrix <- dist.alignment(treeAln, "identity")
 phylotree <- nj(distmatrix)
@@ -40,6 +40,7 @@ sample_data <- import("Inositol_hexakisphosphate.csv")
 treedtf <- as_tibble(phylotree)
 mergeddf <- merge(treedtf, sample_data, by.x = "label", by.y = "Entry", all.x =TRUE, all.y = FALSE)
 newtips <- mergeddf$Organism
+install.packages("phylotools") #plot and label tree
 library(phylotools)
 new_tree <- as.phylo(mergeddf)
 rename.tips.phylo <- function(tree, names) {

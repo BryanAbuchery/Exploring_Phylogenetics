@@ -1,7 +1,7 @@
 #!/usr/bin/env Rscript
 
 #ensure that Tex/LaTex is also installed
-#install.packages("pacman")
+install.packages("pacman")
 library("pacman") # This code chunk shows the loading of required 
 # packages. Here, p_load() from pacman, which installs 
 # the package if necessary and loads it for use. 
@@ -15,24 +15,30 @@ pacman::p_load(
   treeio,          # to visualize phylogenetic files
   ggnewscale)      # to add additional layers of color schemes
 remotes::install_github("YuLab-SMU/tidytree", force = TRUE) #ensures ggtree will work with dplyr
+#if (!requireNamespace("BiocManager", quietly = TRUE))
+#  install.packages("BiocManager")
+
+#BiocManager::install("DECIPHER") #for alignment
 library(DECIPHER)
 AA <- readAAStringSet("concat_IP6K_sequences.fasta", format = "fasta")
 uAA <- unique(AA)
 index <- match(AA, uAA)
 U_AA <- AlignSeqs(uAA)
 AA_aligned <- U_AA[index]
-writeXStringSet(AA_aligned, file="DECIPHER_Aligned.fasta")
+writeXStringSet(AA_aligned, file="DECIPHER_Aligned.fasta") #output the alignment file.
+install.packages("seqinr") #to manipulate the sequence file
 library(seqinr)
 Sqr_AA <- read.alignment("DECIPHER_Aligned.fasta", format = "fasta")
-distmatrix <- dist.alignment(Sqr_AA, matrix = c("similarity", "identity"))
-phylotree <- nj(distmatrix)
+distmatrix <- dist.alignment(Sqr_AA, matrix = c("similarity", "identity")) #calculate distance matrix
+phylotree <- nj(distmatrix) #create the phylogenetic tree with Neighbour-Joining
 ape::write.tree(phylotree, file = "IP6K_tree2.txt")
 sample_data <- import("Inositol_hexakisphosphate.csv")
 treedf <- as_tibble(phylotree)
 tips <- phylotree$tip.label
 merges <- merge(treedf, sample_data, by.x = "label", by.y = "Entry", all.x = TRUE, all.y = FALSE)
 newtips <- merges$Organism
-library(phylotools)
+install.packages("phylotools")
+library(phylotools) #Include the tree labels
 newtree <- as.phylo(merges)
 rename.tips.phylo <- function(tree, names) {
   tree$tip.label <- tree$tip.label <- newtips[match(tree$tip.label,tips)]
