@@ -13,9 +13,9 @@ This project explores the phylogenetics of Phosphoinositol Hexakisphosphosphates
 
 ### Install the following packages
 
-* DECIPHER[https://www.bioconductor.org/packages/release/bioc/html/DECIPHER.html]
+* DECIPHER(https://www.bioconductor.org/packages/release/bioc/html/DECIPHER.html)
 
-* MSA[https://bioconductor.org/packages/release/bioc/html/msa.html]
+* MSA(https://bioconductor.org/packages/release/bioc/html/msa.html)
 
 ### Run
 
