@@ -1,5 +1,15 @@
 #!/usr/bin/env Rscript
 
+
+############################################################################
+# R version 4.1.0 (2021-05-18) -- "Camp Pontanezen"
+# Copyright (C) 2021 The R Foundation for Statistical Computing
+# Platform: x86_64-apple-darwin17.0 (64-bit)
+############################################################################
+
+# Exploring phylogenetic alignment using MSA
+
+############################################################################
 #ensure that Tex/LaTex is also installed
 #install.packages("pacman", repos = "http://cran.us.r-project.org")
 library("pacman") # This code chunk shows the loading of required 
